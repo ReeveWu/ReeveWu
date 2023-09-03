@@ -8,7 +8,7 @@
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ReeveWu&theme=shadow_blue&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" alt="ReeveWu-top-progamming-languages" />
 </div>
 
-## 🛠 &nbsp;Languages and Tools:
+## 🛠 &nbsp;Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
