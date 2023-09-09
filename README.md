@@ -4,8 +4,7 @@
 
 <div style="display:flex;justify-content:left;">
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeveWu&theme=shadow_blue&langs_count=6&hide=tex,assembly&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5" />
-  <!-- <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ReeveWu&theme=vue-dark&hide_border=false" alt="ReeveWu-top-progamming-languages" /> -->
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ReeveWu&theme=shadow_blue&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" alt="ReeveWu-top-progamming-languages" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ReeveWu&theme=shadow_blue&hide_border=false&count_private=true&show_icons=true&include_all_commits=false" />
 </div>
 
 ## 🛠 &nbsp;Languages and Tools
