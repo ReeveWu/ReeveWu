@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,bash,html,css,js,ts,react,fastapi,git,ai,figma,mysql,tensorflow,vim,vscode&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,bash,html,css,js,ts,react,fastapi,git,ai,figma,mysql,tensorflow,pytorch,vscode&theme=light&perline=9" />
   </a>
 </p>
 
