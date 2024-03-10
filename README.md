@@ -4,14 +4,14 @@
 
 <div style="display:flex;justify-content:left;">
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeveWu&theme=shadow_blue&langs_count=6&hide=tex,assembly&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5" />
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ReeveWu&theme=shadow_blue&hide_border=false&count_private=true&show_icons=true" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ReeveWu&theme=shadow_blue&hide_border=false&count_private=true&show_icons=true&rank_icon=github" />
 </div>
 
 ## 🛠 &nbsp;Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,bash,html,css,js,ts,react,fastapi,git,ai,figma,mysql,tensorflow,pytorch,vscode&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,vscode,bash,html,css,js,ts,react,fastapi,git,ai,figma,mysql,c,cpp,arduino&theme=light&perline=9" />
   </a>
 </p>
 
