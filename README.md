@@ -19,4 +19,4 @@ I am passionate about self-learning and solving real-world problems using data-d
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-Welcome to visit my [LinkedIn](www.linkedin.com/in/reeve-wu)!
+Welcome to visit my [LinkedIn](https://www.linkedin.com/in/reeve-wu)!
