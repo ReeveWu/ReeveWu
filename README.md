@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am passionate about self-learning and solving real-world problems using data-driven approaches. Currently, I’m working on developing advanced LLM applications and studying Intelligent Automation Engineering at National Taipei University of Technology.
+
 ## 📌 &nbsp;Coding Stats
 
 <div style="display:flex;justify-content:left;">
@@ -15,17 +17,6 @@
   </a>
 </p>
 
-<!--
-**ReeveWu/ReeveWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝🏻 &nbsp;Connect with Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to visit my [LinkedIn](www.linkedin.com/in/reeve-wu)!
