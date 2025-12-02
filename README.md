@@ -1,11 +1,11 @@
 ## Hi there! 👋
 
-I'm a Computer Science student passionate about bridging theory and practice in **Artificial Intelligence**.
+I'm a Computer Science student passionate about bridging theory and practice in **Artificial Intelligence** and **Cloud Computing**.
 
-* 🔭 **I’m currently focusing on:** Large Language Models (LLMs), Agentic Frameworks, and Information Retrieval.
-* 💼 **Experience:** Former Intern at **Microsoft** & **Pegatron**, with 3+ years of hands-on experience in Cloud integration and AI application development.
-* 🌱 **My Goal:** Driving AI innovation and building practical applications that solve real-world problems.
-* ⚡ **About Me:** Enthusiastic self-learner eager to explore cutting-edge tech and share knowledge.
+* 🔭 **I'm currently focusing on:** Large Language Models (LLMs), Agentic Frameworks, Information Retrieval, and Cloud-native AI solutions.
+* 💼 **Experience:** Former Intern at **Microsoft** & **Pegatron**, with 3+ years of hands-on experience in Cloud integration, Cloud infrastructure, and AI application development.
+* 🌱 **My Goal:** Driving AI innovation and building practical, scalable cloud-based applications that solve real-world problems.
+* ⚡ **About Me:** Enthusiastic self-learner eager to explore cutting-edge tech in AI and Cloud, and share knowledge with the community.
 
 ## 🛠 &nbsp;Skills
 
