@@ -7,8 +7,6 @@ I'm a Computer Science student passionate about bridging theory and practice in 
 * 🌱 **My Goal:** Driving AI innovation and building practical applications that solve real-world problems.
 * ⚡ **About Me:** Enthusiastic self-learner eager to explore cutting-edge tech and share knowledge.
 
-Feel free to reach out if you'd like to chat about tech or collaborate!
-
 ## 🛠 &nbsp;Skills
 
 ### Programming Languages
@@ -37,5 +35,4 @@ Feel free to reach out if you'd like to chat about tech or collaborate!
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
-
-Welcome to visit my [LinkedIn](https://www.linkedin.com/in/reeve-wu)!
+Feel free to visit my [LinkedIn](https://www.linkedin.com/in/reeve-wu) or reach out if you'd like to chat about tech or collaborate!
