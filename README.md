@@ -13,27 +13,27 @@ Feel free to reach out if you'd like to chat about tech or collaborate!
 
 ### Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash&theme=light" />
 </p>
 
 ### DevOps, Cloud & Tools
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github,gitlab,linux,windows&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github,gitlab,linux,windows&theme=light" /> 
 </p>
 
 ### Backend & AI Frameworks
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch&theme=light" /> 
 </p>
 
 ### Databases
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=light" /> 
 </p>
 
 ### Frontend & Web Development
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=light" /> 
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
