@@ -1,20 +1,39 @@
-## Hi there 👋
+## Hi there! 👋
 
-I am passionate about self-learning and solving real-world problems using data-driven approaches. Currently, I’m working on developing advanced LLM applications and studying Intelligent Automation Engineering at National Taipei University of Technology.
+I'm a Computer Science student passionate about bridging theory and practice in **Artificial Intelligence**.
 
-## 📌 &nbsp;Coding Stats
+* 🔭 **I’m currently focusing on:** Large Language Models (LLMs), Agentic Frameworks, and Information Retrieval.
+* 💼 **Experience:** Former Intern at **Microsoft** & **Pegatron**, with 3+ years of hands-on experience in Cloud integration and AI application development.
+* 🌱 **My Goal:** Driving AI innovation and building practical applications that solve real-world problems.
+* ⚡ **About Me:** Enthusiastic self-learner eager to explore cutting-edge tech and share knowledge.
 
-<div style="display:flex;justify-content:left;">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeveWu&theme=shadow_blue&langs_count=6&hide=tex,assembly&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5" />
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ReeveWu&theme=shadow_blue&hide_border=false&count_private=true&show_icons=true&rank_icon=github" />
-</div>
+Feel free to reach out if you'd like to chat about tech or collaborate!
 
-## 🛠 &nbsp;Languages and Tools
+## 🛠 &nbsp;Skills
 
+### Programming Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,vscode,bash,html,css,js,ts,react,fastapi,git,ai,figma,mysql,c,cpp,arduino&theme=light&perline=9" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash&theme=light" />
+</p>
+
+### DevOps, Cloud & Tools
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github,gitlab,linux,windows&theme=light" /> 
+</p>
+
+### Backend & AI Frameworks
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch&theme=light" /> 
+</p>
+
+### Databases
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=light" /> 
+</p>
+
+### Frontend & Web Development
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=light" /> 
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
